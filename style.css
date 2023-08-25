@@ -1,0 +1,32 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+/* headresection */
+.headresection{
+    background-color: cadetblue;
+}
+
+ .logo img {
+   
+    width: 21%;
+}
+.form-section {
+  
+   
+}
+.my-form{
+   
+     padding: 30px;
+    
+   
+}
+.bgcolor{
+    background-color: rgb(189, 187, 140);
+}
+span{
+    font-size: 30px;
+}
+.boro{
+    width: 80%;
+}
